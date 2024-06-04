@@ -9,7 +9,7 @@ Make sure Node.js (version 14 or later) and npm (Node Package Manager) are insta
 ### 1. Installation:
 Clone this repository:
 ```
-git clone https://your-github-repository-url.git
+git clone https://github.com/therajusah/chess.com
 ```
 
 ### 2. Navigate to the project directory:
